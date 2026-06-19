@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Nvynn166.github.io/tu-repositorio/sitemap.xml
